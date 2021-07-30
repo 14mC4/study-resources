@@ -38,25 +38,27 @@ The books I preferred where
 
 
 # CCNA
-https://www.routerfreak.com/cisco-switch-configuration/
-https://academy.gns3.com/
+- https://www.routerfreak.com/cisco-switch-configuration/
+- https://academy.gns3.com/
 
 # ISSO/ISSM/RMF Content for DoD
-https://www.cdse.edu/index.html
-CAC Login: https://www.dss.mil/Portals/69/documents/io/emass/NISP_EMASS_Training_Access_Procedures_Guide_1_14.pdf
+- https://www.cdse.edu/index.html
+- CAC Login: https://www.dss.mil/Portals/69/documents/io/emass/NISP_EMASS_Training_Access_Procedures_Guide_1_14.pdf
 
 # Ethcial Hacking / PNPT or CEH
-https://www.thecybermentor.com/zero-to-hero-pentesting
-https://members.elearnsecurity.com/courses
-https://academy.tcm-sec.com/courses/1269569/author_bio
-https://georgeom.net/StegOnline/checklist
-http://ctfacademy.net/
-https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-https://www.rebootuser.com/?p=1623
+- https://www.thecybermentor.com/zero-to-hero-pentesting
+- https://members.elearnsecurity.com/courses
+- https://academy.tcm-sec.com/courses/1269569/author_bio
+- https://georgeom.net/StegOnline/checklist
+- http://ctfacademy.net/
+- https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+- https://www.rebootuser.com/?p=1623
 
 # OSCP
-https://github.com/rewardone/OSCPRepo/tree/master/CheetSheets/Field%20Manuals
-https://medium.com/bugbountywriteup/5-tips-for-oscp-prep-76001cdf4f4f
-https://sushant747.gitbooks.io/total-oscp-guide/
-https://www.hackthebox.eu/
+- https://github.com/rewardone/OSCPRepo/tree/master/CheetSheets/Field%20Manuals
+- https://medium.com/bugbountywriteup/5-tips-for-oscp-prep-76001cdf4f4f
+- https://sushant747.gitbooks.io/total-oscp-guide/
+- https://www.hackthebox.eu/
 
+# People to Follow for content
+- https://www.cyberhuntingguide.net/network-linkedin.html
