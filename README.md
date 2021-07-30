@@ -27,6 +27,16 @@ I was a little nervous with Security+ so I combined quite a few courses together
 
 # Certified Information Systems Security Professional (CISSP)
 
+I am still working on tackling this monster. Its a very huge english test after you understand the content. I can talk to you all day about the content but its interprepting the convuluted stuff ISC2 puts in this test that makes it challenging and adaptive. 
+By far the best place for realistic questions is a combination of CCCure and Luke Ahmed's place. Boson is really not a good resource. 
+- https://cccure.education/
+- https://www.studynotesandtheory.com/
+
+The books I preferred where 
+-
+-
+
+
 # CCNA
 https://www.routerfreak.com/cisco-switch-configuration/
 https://academy.gns3.com/
