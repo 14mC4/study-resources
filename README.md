@@ -6,7 +6,7 @@ I personally used this book series but at the time mine was only 901/902.
 
 # CompTIA Network+
 
-I used Prfoesser Messer again since he has a very solid free course. He provided all his videos and audio recordings which I would just listen too while working out. I however did buy his training notes book and use it to this day from time to time.
+I used Professer Messer again since he has a very solid free course. He provided all his videos and audio recordings which I would just listen too while working out. I however did buy his training notes book and use it to this day from time to time.
 - https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/
 
 # CompTIA Server+
