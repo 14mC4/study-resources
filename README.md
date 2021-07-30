@@ -1,11 +1,20 @@
-# study-resources
-study-resources
-
 # CompTIA A+
 No need to pay for anything. Professer Messer has ample videos on youtube.
 https://www.youtube.com/watch?v=OS9MJjNK6gA&pp=sAQA
 I personally used this book series but at the time mine was only 901/902. 
 https://www.amazon.com/CompTIA-Certification-Guide-220-1001-220-1002/dp/1260454037/ref=sr_1_3?dchild=1&keywords=A%2B&qid=1627646361&sr=8-3
+
+# CompTIA Network+
+
+# CompTIA Server+
+
+# CompTIA Security+
+
+# Amazon Web Services Certified Cloud Practitioner
+
+# CompTIA Casp+
+
+# Certified Information Systems Security Professional (CISSP)
 
 # CCNA
 https://www.routerfreak.com/cisco-switch-configuration/
